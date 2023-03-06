@@ -7,3 +7,5 @@ Fires (C1) - Nota: 10
 
 Objectes astronòmics (FHC1) - Nota: 9.75
 
+Restaurants (C2) - Nota: 9.25
+(És bastant cursed, recomanaria fer-ho different)
